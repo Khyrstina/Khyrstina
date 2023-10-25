@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Welcome fellow digital wanderer, my name is Khyrstina! By day, I'm a student in an IT program, and by night, I'm well... usually studying for the "by day" part 😅. 
+👋 Welcome fellow digital wanderer, my name is Khyrstina! By day, I'm an Information Technology student, and by night, I'm well... usually studying for the "by day" part 😅. 
 
 🌐 My coding journey is currently focused on web development – but you might see some C# from time to time in older projects, and some new languages in the future as I complete my degree. Currently, I'm on a quest to build 🏔️**Parklopedia**🏔️, a solo project that's all about getting people the information they need to start exploring national parks. I'm having so much fun building this project that it has grown to be much more than I originally planned! 
 
